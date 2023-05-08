@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">🇮🇹 Turin (IT)<br>💻 Web & Mobile Developer <br>📚 Master's Degree Computer Science Student</h6>
+<h4 align="left">🇮🇹 Turin (IT)<br>💻 Web & Mobile Developer <br>📚 Master's Degree Computer Science Student</h4>
 
 ###
 
@@ -25,8 +25,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/begadoro/begadoro/output/snake.svg" alt="Snake animation" />
 
 ###
 
